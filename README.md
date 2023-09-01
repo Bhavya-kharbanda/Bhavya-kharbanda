@@ -1,0 +1,1 @@
+This is a sales project of a chocolate company Awesome Chocolate. All the data related to sales is stored in the raw form in Excel. After retrieving data from excel it is then cleaned, visulaised in PowerBI.  
